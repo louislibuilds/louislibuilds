@@ -10,7 +10,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nagi-2C2C2C?style=for-the-badge&logo=vercel&logoColor=white)](https://nagi-three.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-louis--li--builds-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/louis-li-builds)
-[![Email](https://img.shields.io/badge/Email-louis.li.builds@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:louis.li.builds@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-bubblechickenlab-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bubblechickenlab/)
+[![Threads](https://img.shields.io/badge/Threads-bubblechickenlab-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@bubblechickenlab)
 
 </div>
 
@@ -41,7 +42,6 @@ React · Vite · Three.js · Supabase
 WebGL entry surface, depth content layer, custom admin CMS, and trilingual content (EN / zh-TW / zh-CN).
 
 [![Live](https://img.shields.io/badge/Live-nagi--three.vercel.app-2C2C2C?style=flat-square)](https://nagi-three.vercel.app/)
-[![Repo](https://img.shields.io/badge/Repo-louislibuilds%2Fnagi-181717?style=flat-square&logo=github)](https://github.com/louislibuilds/nagi)
 
 </td>
 <td width="50%" valign="top">
@@ -127,8 +127,8 @@ React · Node.js · Leaflet · REST
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=louislibuilds&show_icons=true&theme=graywhite&hide_border=true&bg_color=E8E4DC00&title_color=2C2C2C&text_color=4A4A4A&icon_color=8B7355" alt="stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louislibuilds&layout=compact&theme=graywhite&hide_border=true&bg_color=E8E4DC00&title_color=2C2C2C&text_color=4A4A4A" alt="top langs" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=louislibuilds&show_icons=true&hide_border=true&title_color=2C2C2C&text_color=4A4A4A&icon_color=8B7355&bg_color=FFFFFF" alt="stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louislibuilds&layout=compact&hide_border=true&title_color=2C2C2C&text_color=4A4A4A&bg_color=FFFFFF" alt="top langs" height="165"/>
 
 </div>
 
