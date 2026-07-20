@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:E8E4DC,100:C4B8A8&height=160&section=header&text=Louis%20Li&fontSize=42&fontColor=2C2C2C&animation=fadeIn" alt="header" />
 
-**Developer | Language Enthusiast | Lifelong Learner**
+**Developer | Gamer | Lifelong Learner**
 
 <br/>
 
