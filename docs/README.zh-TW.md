@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:E8E4DC,100:C4B8A8&height=160&section=header&text=Louis%20Li&fontSize=42&fontColor=2C2C2C&animation=fadeIn" alt="header" />
 
-**開發者 | 語言愛好者 | 終身學習者**
+**全端開發者 · UTS MIT · bubblechickenlab**
 
 <br/>
 
@@ -12,7 +12,8 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/作品集-nagi-2C2C2C?style=for-the-badge&logo=vercel&logoColor=white)](https://nagi-three.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/作品集-bubblechickenlab.com-2C2C2C?style=for-the-badge&logo=vercel&logoColor=white)](https://www.bubblechickenlab.com/)
+[![Tower Zero](https://img.shields.io/badge/Tower_Zero-互動履歷-C4B8A8?style=for-the-badge&logo=threedotjs&logoColor=2C2C2C)](https://www.bubblechickenlab.com/towerzero)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-louis--li--builds-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/louis-li-builds)
 [![Instagram](https://img.shields.io/badge/Instagram-bubblechickenlab-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bubblechickenlab/)
 [![Threads](https://img.shields.io/badge/Threads-bubblechickenlab-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@bubblechickenlab)
@@ -25,9 +26,9 @@
 
 Helluu，我是 bubblechickenlab。:)
 
-我是一位喜歡把想法變成實際產品的開發者。我專注於打造介面乾淨、好用且易於維護的現代網頁應用程式。
+我是全端開發者，雪梨科技大學（UTS）資訊科技碩士畢業（WAM 86.9 · Dean's List）。在 [bubblechickenlab.com](https://www.bubblechickenlab.com) 獨立交付正式上線的 Web 應用 — 從資料庫 schema、auth 到部署全程負責。
 
-我熱衷於學習新技術、探索 AI，並透過各種 side project 持續精進自己的能力。
+我的工作介於工程與敘事之間：作品集即建築、互動式履歷、以及源自真實求職流程的工具。三語 UI（英 / 繁中 / 簡中）。
 
 不寫程式的時候，我大概在打遊戲、健身、做菜，或是計畫下一趟旅程。
 
@@ -39,40 +40,43 @@ Helluu，我是 bubblechickenlab。:)
 <tr>
 <td width="50%" valign="top">
 
-### [nagi](https://nagi-three.vercel.app/)
-*個人作品集平台*
+### [nagi](https://www.bubblechickenlab.com/)
+*作品集平台 · bubblechickenlab.com*
 
-React · Vite · Three.js · Supabase
+React · Three.js · Supabase · TipTap
 
-WebGL 入口頁面、內容深度層、自建 admin CMS，並支援三語內容（EN / zh-TW / zh-CN）。
+WebGL 入口頁面、三語 CMS、case study 發布，以及跨產品共用 auth。從 schema 到 production 一人完成。
 
-[![Live](https://img.shields.io/badge/線上-nagi--three.vercel.app-2C2C2C?style=flat-square)](https://nagi-three.vercel.app/)
+[![Live](https://img.shields.io/badge/線上-bubblechickenlab.com-2C2C2C?style=flat-square)](https://www.bubblechickenlab.com/)
+[![Case Studies](https://img.shields.io/badge/Case_Studies-/work-C4B8A8?style=flat-square)](https://www.bubblechickenlab.com/work)
 
 </td>
 <td width="50%" valign="top">
 
-### [JOBO](https://jobo-mu.vercel.app/)
-*求職申請追蹤工具*
+### [KATA](https://www.bubblechickenlab.com/kata)
+*履歷編輯器 + 求職追蹤套件*
 
-Next.js · TypeScript · Tailwind · Vercel
+React · TypeScript · Supabase · Local-first
 
-看板式流程（7 個階段）、本地優先儲存、JSON 匯入匯出、多語系 — 源自真實求職痛點。
+九步驟履歷編輯、A4 即時預覽、四款模板與 PDF 匯出 — 搭配七階段看板式 job tracker，求職期間每日使用。
 
-[![Live](https://img.shields.io/badge/線上-jobo--mu.vercel.app-2C2C2C?style=flat-square)](https://jobo-mu.vercel.app/)
+[![Editor](https://img.shields.io/badge/Editor-/kata/editor-2C2C2C?style=flat-square)](https://www.bubblechickenlab.com/kata/editor)
+[![Tracker](https://img.shields.io/badge/Tracker-/kata/tracker-C4B8A8?style=flat-square)](https://www.bubblechickenlab.com/kata/tracker)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [KATA](https://resumade-ivory.vercel.app/)
-*履歷編輯器*
+### [Tower Zero](https://www.bubblechickenlab.com/towerzero)
+*互動式 3D 履歷*
 
-React · TypeScript · Vite · PDF 匯出
+React Three Fiber · Three.js · Vite · i18n
 
-即時 A4 預覽、四種模板、區塊排序、草稿匯入匯出 — 我自己求職時每天在用的工具。
+賽博龐克大樓隱喻 — 逐層瀏覽學歷、專案、技能與聯絡方式。開機動畫、深淺主題，WebGL 不可用時有 SVG 2D fallback。
 
-[![Live](https://img.shields.io/badge/線上-resumade--ivory.vercel.app-2C2C2C?style=flat-square)](https://resumade-ivory.vercel.app/)
+[![Live](https://img.shields.io/badge/線上-/towerzero-2C2C2C?style=flat-square)](https://www.bubblechickenlab.com/towerzero)
+[![Repo](https://img.shields.io/badge/Repo-tower--0-181717?style=flat-square&logo=github)](https://github.com/louislibuilds/tower-0)
 
 </td>
 <td width="50%" valign="top">
@@ -80,10 +84,11 @@ React · TypeScript · Vite · PDF 匯出
 ### [your-rock-is-coming](https://github.com/louislibuilds/your-rock-is-coming)
 *UniHack 2026 — 團隊隊長*
 
-React · Node.js · Leaflet · REST
+React · Express · Leaflet · Open-Meteo
 
-48 小時黑客松 MVP：地圖探索 + 7 天天氣預報。負責架構、API 規格與交付。
+48 小時黑客松 MVP：雪梨網球場探索 + 天氣感知預約。負責架構、API 規格與交付。
 
+[![Case Study](https://img.shields.io/badge/Case_Study-/work/your--rock--is--coming-C4B8A8?style=flat-square)](https://www.bubblechickenlab.com/work/your-rock-is-coming)
 [![Repo](https://img.shields.io/badge/Repo-UniHack%202026-181717?style=flat-square&logo=github)](https://github.com/louislibuilds/your-rock-is-coming)
 
 </td>
@@ -97,8 +102,9 @@ React · Node.js · Leaflet · REST
 
 | 專案 | 技術 | 說明 |
 |------|------|------|
-| [Mock Interview Coach](https://github.com/louis-li-builds/mock-interview-coach-stt-star-feedback-scoring-nlp-uts-project) | Python, NLP, STT | UTS 團隊專案 — 以 STAR 架構評分模擬面試 |
-| [VTuber Motion Pipeline](https://github.com/louis-li-builds/dl-cnn-UTSproject51-vtuber-mediapipe-kalidokit) | Python, MediaPipe, CNN | 深度學習課程專案 |
+| [Mock Interview Coach](https://www.bubblechickenlab.com/work/mock-interview-coach) | Python, FastAPI, STT, NLP | UTS NLP（94 HD）— STAR 架構模擬面試評分 · [GitHub](https://github.com/louis-li-builds/mock-interview-coach-stt-star-feedback-scoring-nlp-uts-project) |
+| [VTuber MoCap](https://www.bubblechickenlab.com/work/vtuber-mocap) | MediaPipe, Kalidokit, ONNX, Three.js | 深度學習（95 HD）· TechFest 2026 AI Showcase 提名 · [GitHub](https://github.com/louis-li-builds/dl-cnn-UTSproject51-vtuber-mediapipe-kalidokit) |
+| [SUNishop](https://github.com/louislibuilds/SUNi-Make-Your-Day-Shining) | React, Node.js, MongoDB, AWS | 雲端電商 — LAMP → MERN 遷移 + CI gate（100 / 95 HD） |
 
 </details>
 
@@ -108,12 +114,11 @@ React · Node.js · Leaflet · REST
 
 | 類別 | 技術 |
 |------|------|
-| **程式語言** | ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
-| **框架與函式庫** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) |
-| **技術與工具** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![AI](https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Data Science](https://img.shields.io/badge/Data_Science-150458?style=for-the-badge&logo=pandas&logoColor=white) |
-| **雲端與 DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) |
-| **資料庫** | ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **作業系統** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) |
+| **程式語言** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **前端與 3D** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) |
+| **後端與資料** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **雲端與 DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+| **ML / AI** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![OpenAI](https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white) ![TensorFlow](https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
 
 ---
 
