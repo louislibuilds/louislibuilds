@@ -27,7 +27,7 @@
 
 Helluu，我是 bubblechickenlab。:)
 
-我是软件工程师，以全栈方式交付产品 — schema、API、UI 到部署。目前主要落在 web（[bubblechickenlab.com](https://www.bubblechickenlab.com)），并往 mobile、desktop、enterprise 与 AI 方案延伸。
+我是软件工程师，以全栈方式交付产品 — schema、API、UI 到部署。目前主要落在 web，并往 mobile、desktop、enterprise 与 AI 方案延伸。
 
 我的工作介于工程与叙事之间：作品集即建筑、互动式简历、以及源自真实工作流程的工具。
 
@@ -37,53 +37,31 @@ Helluu，我是 bubblechickenlab。:)
 
 ## 精选作品
 
-三个产品，同一个网域 — **[bubblechickenlab.com](https://www.bubblechickenlab.com)**。
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [NAGI](https://www.bubblechickenlab.com/)
-*作品集 hub · Surface + Depth*
+### [NAGI](https://www.bubblechickenlab.com/) — *作品集 hub · Surface + Depth*
 
 React · Vite · Three.js · Supabase · TipTap
 
-WebGL 入口、文章与 work case study、自建 CMS。在同一网域下代理 KATA 与 Tower Zero。
+WebGL 入口、文章与 work case study、自建 CMS。
 
-[![Live](https://img.shields.io/badge/在线-bubblechickenlab.com-2C2C2C?style=flat-square)](https://www.bubblechickenlab.com/)
+[![Live](https://img.shields.io/badge/在线-前往-2C2C2C?style=flat-square)](https://www.bubblechickenlab.com/)
 
-</td>
-<td width="50%" valign="top">
-
-### [KATA](https://www.bubblechickenlab.com/kata)
-*求职工具套件*
+### [KATA](https://www.bubblechickenlab.com/kata) — *求职工具套件*
 
 React · TypeScript · Supabase · Local-first
 
 简历编辑器、投递指引与 JOBO 看板追踪 — A4 预览、PDF 导出、可选云端同步。
 
-[![Live](https://img.shields.io/badge/在线-/kata-2C2C2C?style=flat-square)](https://www.bubblechickenlab.com/kata)
+[![Live](https://img.shields.io/badge/在线-前往-2C2C2C?style=flat-square)](https://www.bubblechickenlab.com/kata)
+[![Repo](https://img.shields.io/badge/Repo-kata.app-181717?style=flat-square&logo=github)](https://github.com/louislibuilds/kata.app)
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### [Tower Zero](https://www.bubblechickenlab.com/towerzero)
-*互动式 3D 简历*
+### [Tower Zero](https://www.bubblechickenlab.com/towerzero) — *互动式 3D 简历*
 
 React 19 · React Three Fiber · Vite · GSAP
 
 赛博朋克大楼简历 — 逐层浏览学历、项目与联系方式。开机动画、深浅主题、SVG fallback。
 
-[![Live](https://img.shields.io/badge/在线-/towerzero-2C2C2C?style=flat-square)](https://www.bubblechickenlab.com/towerzero)
+[![Live](https://img.shields.io/badge/在线-前往-2C2C2C?style=flat-square)](https://www.bubblechickenlab.com/towerzero)
 [![Repo](https://img.shields.io/badge/Repo-tower--0-181717?style=flat-square&logo=github)](https://github.com/louislibuilds/tower-0)
-
-</td>
-</tr>
-</table>
-
-更多 case study、课程项目与黑客松作品 → **[bubblechickenlab.com/work](https://www.bubblechickenlab.com/work)**
 
 ---
 
@@ -91,11 +69,13 @@ React 19 · React Three Fiber · Vite · GSAP
 
 | 类别 | 技术 |
 |------|------|
-| **编程语言** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **前端与 3D** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) |
-| **后端与数据** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **部署与云端** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) |
-| **其他** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
+| **编程语言** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **前端与 UI** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) |
+| **后端与数据** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **云与 DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
+| **ML / AI** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![OpenAI](https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white) ![TensorFlow](https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
+| **计算机科学基础** | 数据结构与算法 · 数据库 · 面向对象设计 · 系统设计 · 调试与问题排查 |
+| **语言能力** | 英语（流利）· 中文（母语） |
 
 ---
 
