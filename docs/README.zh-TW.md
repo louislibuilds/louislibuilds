@@ -52,7 +52,7 @@ React · TypeScript · Supabase · Local-first
 履歷編輯器、投遞指引與 JOBO 看板追蹤 — A4 預覽、PDF 匯出、可選雲端同步。
 
 [![Live](https://img.shields.io/badge/線上-前往-2C2C2C?style=flat-square)](https://www.bubblechickenlab.com/kata)
-[![Repo](https://img.shields.io/badge/Repo-kata.app-181717?style=flat-square&logo=github)](https://github.com/louislibuilds/kata.app)
+[![Case Study](https://img.shields.io/badge/Case_Study-閱讀-2C2C2C?style=flat-square)](https://www.bubblechickenlab.com/work/kata)
 
 ### [Tower Zero](https://www.bubblechickenlab.com/towerzero) — *互動式 3D 履歷*
 

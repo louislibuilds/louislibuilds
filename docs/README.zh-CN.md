@@ -52,7 +52,7 @@ React · TypeScript · Supabase · Local-first
 简历编辑器、投递指引与 JOBO 看板追踪 — A4 预览、PDF 导出、可选云端同步。
 
 [![Live](https://img.shields.io/badge/在线-前往-2C2C2C?style=flat-square)](https://www.bubblechickenlab.com/kata)
-[![Repo](https://img.shields.io/badge/Repo-kata.app-181717?style=flat-square&logo=github)](https://github.com/louislibuilds/kata.app)
+[![Case Study](https://img.shields.io/badge/Case_Study-阅读-2C2C2C?style=flat-square)](https://www.bubblechickenlab.com/work/kata)
 
 ### [Tower Zero](https://www.bubblechickenlab.com/towerzero) — *互动式 3D 简历*
 

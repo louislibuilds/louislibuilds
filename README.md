@@ -52,7 +52,7 @@ React · TypeScript · Supabase · Local-first
 Résumé editor, apply guide, and JOBO tracker in one SPA — A4 preview, PDF export, optional cloud sync.
 
 [![Live](https://img.shields.io/badge/Live-Visit-2C2C2C?style=flat-square)](https://www.bubblechickenlab.com/kata)
-[![Repo](https://img.shields.io/badge/Repo-kata.app-181717?style=flat-square&logo=github)](https://github.com/louislibuilds/kata.app)
+[![Case Study](https://img.shields.io/badge/Case_Study-Read-2C2C2C?style=flat-square)](https://www.bubblechickenlab.com/work/kata)
 
 ### [Tower Zero](https://www.bubblechickenlab.com/towerzero) — *Interactive 3D résumé*
 
