@@ -12,7 +12,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-bubblechickenlab.com-2C2C2C?style=for-the-badge&logo=vercel&logoColor=white)](https://www.bubblechickenlab.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bubblechickenlab.com-2C2C2C?style=for-the-badge&logo=vercel&logoColor=white)](https://www.bubblechickenlab.com/work)
 [![KATA](https://img.shields.io/badge/KATA-Job_Search_Toolkit-D9D2C5?style=for-the-badge&logo=react&logoColor=2C2C2C)](https://www.bubblechickenlab.com/kata)
 [![Tower Zero](https://img.shields.io/badge/Tower_Zero-Interactive_CV-C4B8A8?style=for-the-badge&logo=threedotjs&logoColor=2C2C2C)](https://www.bubblechickenlab.com/towerzero)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-louis--li--builds-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/louis-li-builds)
@@ -37,13 +37,14 @@ Outside of coding, you'll probably find me gaming, working out, cooking, or plan
 
 ## Highlights
 
-### [NAGI](https://www.bubblechickenlab.com/) — *Portfolio hub · Surface + Depth*
+### [NAGI](https://www.bubblechickenlab.com/work) — *Portfolio hub · Surface + Depth*
 
 React · Vite · Three.js · Supabase · TipTap
 
-WebGL entry, articles & work case studies, self-hosted CMS.
+Articles & work case studies, self-hosted CMS.
 
-[![Live](https://img.shields.io/badge/Live-Visit-2C2C2C?style=flat-square)](https://www.bubblechickenlab.com/)
+[![Work](https://img.shields.io/badge/Work-View-2C2C2C?style=flat-square)](https://www.bubblechickenlab.com/work)
+[![About](https://img.shields.io/badge/About-Read-2C2C2C?style=flat-square)](https://www.bubblechickenlab.com/about)
 
 ### [KATA](https://www.bubblechickenlab.com/kata) — *Job-search toolkit*
 

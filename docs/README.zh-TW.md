@@ -12,7 +12,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/作品集-bubblechickenlab.com-2C2C2C?style=for-the-badge&logo=vercel&logoColor=white)](https://www.bubblechickenlab.com/)
+[![Portfolio](https://img.shields.io/badge/作品集-bubblechickenlab.com-2C2C2C?style=for-the-badge&logo=vercel&logoColor=white)](https://www.bubblechickenlab.com/work)
 [![KATA](https://img.shields.io/badge/KATA-求職工具套件-D9D2C5?style=for-the-badge&logo=react&logoColor=2C2C2C)](https://www.bubblechickenlab.com/kata)
 [![Tower Zero](https://img.shields.io/badge/Tower_Zero-互動履歷-C4B8A8?style=for-the-badge&logo=threedotjs&logoColor=2C2C2C)](https://www.bubblechickenlab.com/towerzero)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-louis--li--builds-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/louis-li-builds)
@@ -37,13 +37,14 @@ Helluu，我是 bubblechickenlab。:)
 
 ## 精選作品
 
-### [NAGI](https://www.bubblechickenlab.com/) — *作品集 hub · Surface + Depth*
+### [NAGI](https://www.bubblechickenlab.com/work) — *作品集 hub · Surface + Depth*
 
 React · Vite · Three.js · Supabase · TipTap
 
-WebGL 入口、文章與 work case study、自建 CMS。
+文章與 work case study、自建 CMS。
 
-[![Live](https://img.shields.io/badge/線上-前往-2C2C2C?style=flat-square)](https://www.bubblechickenlab.com/)
+[![Work](https://img.shields.io/badge/作品-查看-2C2C2C?style=flat-square)](https://www.bubblechickenlab.com/work)
+[![About](https://img.shields.io/badge/關於-閱讀-2C2C2C?style=flat-square)](https://www.bubblechickenlab.com/about)
 
 ### [KATA](https://www.bubblechickenlab.com/kata) — *求職工具套件*
 
