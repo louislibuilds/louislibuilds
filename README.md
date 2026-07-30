@@ -13,6 +13,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bubblechickenlab.com-2C2C2C?style=for-the-badge&logo=vercel&logoColor=white)](https://www.bubblechickenlab.com/)
+[![KATA](https://img.shields.io/badge/KATA-Job_Search_Toolkit-D9D2C5?style=for-the-badge&logo=react&logoColor=2C2C2C)](https://www.bubblechickenlab.com/kata)
 [![Tower Zero](https://img.shields.io/badge/Tower_Zero-Interactive_CV-C4B8A8?style=for-the-badge&logo=threedotjs&logoColor=2C2C2C)](https://www.bubblechickenlab.com/towerzero)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-louis--li--builds-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/louis-li-builds)
 [![Instagram](https://img.shields.io/badge/Instagram-bubblechickenlab-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bubblechickenlab/)
@@ -28,7 +29,7 @@ Helluu, this is bubblechickenlab. :)
 
 I'm a full-stack developer and UTS Master of Information Technology graduate (WAM 86.9 · Dean's List). I build production web apps end to end — from database schema and auth to deploy — under [bubblechickenlab.com](https://www.bubblechickenlab.com).
 
-My work sits at the intersection of engineering and storytelling: portfolio-as-architecture, interactive résumés, and tools shaped by real job-search workflows. Bilingual EN / zh-TW / zh-CN.
+My work sits at the intersection of engineering and storytelling: portfolio-as-architecture, interactive résumés, and tools shaped by real job-search workflows. Multilingual UI across the platform (EN · 繁中 · 简中 · 日本語).
 
 Outside of coding, you'll probably find me gaming, working out, cooking, or planning my next adventure.
 
@@ -36,32 +37,36 @@ Outside of coding, you'll probably find me gaming, working out, cooking, or plan
 
 ## What I'm Building
 
+One domain — **[bubblechickenlab.com](https://www.bubblechickenlab.com)**. **nagi** is the portfolio hub; **KATA** and **Tower Zero** ship as subpath apps (`/kata`, `/towerzero`) behind the same brand.
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### [nagi](https://www.bubblechickenlab.com/)
-*Portfolio platform · bubblechickenlab.com*
+*Portfolio hub · Surface + Depth*
 
-React · Three.js · Supabase · TipTap
+React · Vite · Three.js · Supabase · TipTap
 
-WebGL entry surface, trilingual CMS, case-study publishing, and shared auth across the platform. Sole builder from schema to production.
+WebGL **Surface** entry, **Depth** for articles and work case studies, and a self-hosted admin CMS. Reverse-proxies KATA and Tower Zero so visitors stay on one domain. Sole builder from schema to production.
 
 [![Live](https://img.shields.io/badge/Live-bubblechickenlab.com-2C2C2C?style=flat-square)](https://www.bubblechickenlab.com/)
-[![Case Studies](https://img.shields.io/badge/Case_Studies-/work-C4B8A8?style=flat-square)](https://www.bubblechickenlab.com/work)
+[![Work](https://img.shields.io/badge/Work-/work-C4B8A8?style=flat-square)](https://www.bubblechickenlab.com/work)
+[![Articles](https://img.shields.io/badge/Articles-/articles-D9D2C5?style=flat-square)](https://www.bubblechickenlab.com/articles)
 
 </td>
 <td width="50%" valign="top">
 
 ### [KATA](https://www.bubblechickenlab.com/kata)
-*Résumé builder + job tracker suite*
+*Unified job-search toolkit · [kata.app](https://github.com/louislibuilds/kata.app)*
 
 React · TypeScript · Supabase · Local-first
 
-Nine-step résumé editor with live A4 preview, four templates, and PDF export — paired with a kanban job tracker (7 stages) I use daily during the search.
+Résumé editor, apply guide, and **JOBO** kanban tracker in one SPA — guided A4 preview, four templates, PDF export, optional Google sync. Evolved from RESUmade; I use it daily during the search.
 
 [![Editor](https://img.shields.io/badge/Editor-/kata/editor-2C2C2C?style=flat-square)](https://www.bubblechickenlab.com/kata/editor)
-[![Tracker](https://img.shields.io/badge/Tracker-/kata/tracker-C4B8A8?style=flat-square)](https://www.bubblechickenlab.com/kata/tracker)
+[![Tracker](https://img.shields.io/badge/JOBO-/kata/tracker-C4B8A8?style=flat-square)](https://www.bubblechickenlab.com/kata/tracker)
+[![Repo](https://img.shields.io/badge/Repo-kata.app-181717?style=flat-square&logo=github)](https://github.com/louislibuilds/kata.app)
 
 </td>
 </tr>
@@ -71,9 +76,9 @@ Nine-step résumé editor with live A4 preview, four templates, and PDF export �
 ### [Tower Zero](https://www.bubblechickenlab.com/towerzero)
 *Interactive 3D résumé*
 
-React Three Fiber · Three.js · Vite · i18n
+React 19 · R3F · Vite 8 · GSAP · i18n
 
-A cyberpunk skyscraper you navigate floor by floor — education, projects, skills, and contact as exhibits. Boot sequence, themes, and SVG fallback when WebGL is off.
+A seven-floor cyberpunk skyscraper — lobby, academic timeline, lab suites (UniHack, KATA, nagi, NLP, VTuber MoCap…), library, and roof contact. Boot sequence, day/night themes, path-based routing, SVG fallback when WebGL is off.
 
 [![Live](https://img.shields.io/badge/Live-/towerzero-2C2C2C?style=flat-square)](https://www.bubblechickenlab.com/towerzero)
 [![Repo](https://img.shields.io/badge/Repo-tower--0-181717?style=flat-square&logo=github)](https://github.com/louislibuilds/tower-0)
@@ -102,6 +107,7 @@ React · Express · Leaflet · Open-Meteo
 
 | Project | Stack | Notes |
 |---------|-------|-------|
+| [OPC Skill OS](https://github.com/louislibuilds/bubblechickenlab-opc-skills) | Cursor Skills, Markdown | 14-role AI team framework for solo founders — `@opc-os` ticket workflow · MIT |
 | [Mock Interview Coach](https://www.bubblechickenlab.com/work/mock-interview-coach) | Python, FastAPI, STT, NLP | UTS NLP (94 HD) — STAR-based interview scoring · [GitHub](https://github.com/louis-li-builds/mock-interview-coach-stt-star-feedback-scoring-nlp-uts-project) |
 | [VTuber MoCap](https://www.bubblechickenlab.com/work/vtuber-mocap) | MediaPipe, Kalidokit, ONNX, Three.js | Deep Learning (95 HD) · TechFest 2026 AI Showcase nominee · [GitHub](https://github.com/louis-li-builds/dl-cnn-UTSproject51-vtuber-mediapipe-kalidokit) |
 | [SUNishop](https://github.com/louislibuilds/SUNi-Make-Your-Day-Shining) | React, Node.js, MongoDB, AWS | Cloud e-commerce — LAMP → MERN migration with CI gates (100 / 95 HD) |

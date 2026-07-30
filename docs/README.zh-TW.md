@@ -13,6 +13,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/作品集-bubblechickenlab.com-2C2C2C?style=for-the-badge&logo=vercel&logoColor=white)](https://www.bubblechickenlab.com/)
+[![KATA](https://img.shields.io/badge/KATA-求職工具套件-D9D2C5?style=for-the-badge&logo=react&logoColor=2C2C2C)](https://www.bubblechickenlab.com/kata)
 [![Tower Zero](https://img.shields.io/badge/Tower_Zero-互動履歷-C4B8A8?style=for-the-badge&logo=threedotjs&logoColor=2C2C2C)](https://www.bubblechickenlab.com/towerzero)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-louis--li--builds-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/louis-li-builds)
 [![Instagram](https://img.shields.io/badge/Instagram-bubblechickenlab-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bubblechickenlab/)
@@ -28,7 +29,7 @@ Helluu，我是 bubblechickenlab。:)
 
 我是全端開發者，雪梨科技大學（UTS）資訊科技碩士畢業（WAM 86.9 · Dean's List）。在 [bubblechickenlab.com](https://www.bubblechickenlab.com) 獨立交付正式上線的 Web 應用 — 從資料庫 schema、auth 到部署全程負責。
 
-我的工作介於工程與敘事之間：作品集即建築、互動式履歷、以及源自真實求職流程的工具。三語 UI（英 / 繁中 / 簡中）。
+我的工作介於工程與敘事之間：作品集即建築、互動式履歷、以及源自真實求職流程的工具。平台 UI 支援四語（英 · 繁中 · 简中 · 日本語）。
 
 不寫程式的時候，我大概在打遊戲、健身、做菜，或是計畫下一趟旅程。
 
@@ -36,32 +37,36 @@ Helluu，我是 bubblechickenlab。:)
 
 ## 我正在打造的作品
 
+同一個網域 — **[bubblechickenlab.com](https://www.bubblechickenlab.com)**。**nagi** 是作品集 hub；**KATA** 與 **Tower Zero** 以子路徑（`/kata`、`/towerzero`）掛在同一品牌下。
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### [nagi](https://www.bubblechickenlab.com/)
-*作品集平台 · bubblechickenlab.com*
+*作品集 hub · Surface + Depth*
 
-React · Three.js · Supabase · TipTap
+React · Vite · Three.js · Supabase · TipTap
 
-WebGL 入口頁面、三語 CMS、case study 發布，以及跨產品共用 auth。從 schema 到 production 一人完成。
+WebGL **Surface** 入口、**Depth** 承載文章與 work case study，以及自建 admin CMS。反向代理 KATA 與 Tower Zero，訪客只記一個網域。從 schema 到 production 一人完成。
 
 [![Live](https://img.shields.io/badge/線上-bubblechickenlab.com-2C2C2C?style=flat-square)](https://www.bubblechickenlab.com/)
-[![Case Studies](https://img.shields.io/badge/Case_Studies-/work-C4B8A8?style=flat-square)](https://www.bubblechickenlab.com/work)
+[![Work](https://img.shields.io/badge/Work-/work-C4B8A8?style=flat-square)](https://www.bubblechickenlab.com/work)
+[![Articles](https://img.shields.io/badge/Articles-/articles-D9D2C5?style=flat-square)](https://www.bubblechickenlab.com/articles)
 
 </td>
 <td width="50%" valign="top">
 
 ### [KATA](https://www.bubblechickenlab.com/kata)
-*履歷編輯器 + 求職追蹤套件*
+*整合求職工具套件 · [kata.app](https://github.com/louislibuilds/kata.app)*
 
 React · TypeScript · Supabase · Local-first
 
-九步驟履歷編輯、A4 即時預覽、四款模板與 PDF 匯出 — 搭配七階段看板式 job tracker，求職期間每日使用。
+履歷編輯器、投遞指引與 **JOBO** 看板追蹤合在同一 SPA — 引導式 A4 預覽、四款模板、PDF 匯出、可選 Google 雲端同步。由 RESUmade 演進而來；求職期間每日使用。
 
 [![Editor](https://img.shields.io/badge/Editor-/kata/editor-2C2C2C?style=flat-square)](https://www.bubblechickenlab.com/kata/editor)
-[![Tracker](https://img.shields.io/badge/Tracker-/kata/tracker-C4B8A8?style=flat-square)](https://www.bubblechickenlab.com/kata/tracker)
+[![JOBO](https://img.shields.io/badge/JOBO-/kata/tracker-C4B8A8?style=flat-square)](https://www.bubblechickenlab.com/kata/tracker)
+[![Repo](https://img.shields.io/badge/Repo-kata.app-181717?style=flat-square&logo=github)](https://github.com/louislibuilds/kata.app)
 
 </td>
 </tr>
@@ -71,9 +76,9 @@ React · TypeScript · Supabase · Local-first
 ### [Tower Zero](https://www.bubblechickenlab.com/towerzero)
 *互動式 3D 履歷*
 
-React Three Fiber · Three.js · Vite · i18n
+React 19 · R3F · Vite 8 · GSAP · i18n
 
-賽博龐克大樓隱喻 — 逐層瀏覽學歷、專案、技能與聯絡方式。開機動畫、深淺主題，WebGL 不可用時有 SVG 2D fallback。
+七層賽博龐克大樓 — 大廳、學業時間軸、實驗室套間（UniHack、KATA、nagi、NLP、VTuber MoCap…）、圖書館與頂樓聯絡。開機動畫、深淺主題、path 路由，WebGL 不可用時有 SVG 2D fallback。
 
 [![Live](https://img.shields.io/badge/線上-/towerzero-2C2C2C?style=flat-square)](https://www.bubblechickenlab.com/towerzero)
 [![Repo](https://img.shields.io/badge/Repo-tower--0-181717?style=flat-square&logo=github)](https://github.com/louislibuilds/tower-0)
@@ -102,6 +107,7 @@ React · Express · Leaflet · Open-Meteo
 
 | 專案 | 技術 | 說明 |
 |------|------|------|
+| [OPC Skill OS](https://github.com/louislibuilds/bubblechickenlab-opc-skills) | Cursor Skills, Markdown | 14 角色 AI 團隊框架 — `@opc-os` Ticket 工作流 · MIT |
 | [Mock Interview Coach](https://www.bubblechickenlab.com/work/mock-interview-coach) | Python, FastAPI, STT, NLP | UTS NLP（94 HD）— STAR 架構模擬面試評分 · [GitHub](https://github.com/louis-li-builds/mock-interview-coach-stt-star-feedback-scoring-nlp-uts-project) |
 | [VTuber MoCap](https://www.bubblechickenlab.com/work/vtuber-mocap) | MediaPipe, Kalidokit, ONNX, Three.js | 深度學習（95 HD）· TechFest 2026 AI Showcase 提名 · [GitHub](https://github.com/louis-li-builds/dl-cnn-UTSproject51-vtuber-mediapipe-kalidokit) |
 | [SUNishop](https://github.com/louislibuilds/SUNi-Make-Your-Day-Shining) | React, Node.js, MongoDB, AWS | 雲端電商 — LAMP → MERN 遷移 + CI gate（100 / 95 HD） |
